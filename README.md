@@ -155,6 +155,8 @@ spctl --assess --verbose cefclient.app
 
 ## License
 
-The scripts in this repository are MIT licensed.
+This project is licensed under the **BSD 3-Clause License** - see the [LICENSE](LICENSE) file for details.
 
-CEF is BSD licensed. See the [CEF license](https://bitbucket.org/chromiumembedded/cef/src/master/LICENSE.txt) for details.
+This is the same license used by CEF itself, ensuring full compatibility. The LICENSE file includes both:
+- License for the scripts in this repository
+- The original CEF license (as required for redistribution)
